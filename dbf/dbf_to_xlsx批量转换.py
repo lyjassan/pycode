@@ -16,7 +16,7 @@ def main():
     # 声明
     cnt_errors = 0
     # 获取需转换的dbf路径
-    script_path = os.path.dirname(r"C:\Users\JAS\Desktop\新建文件夹 (2)\新建文件夹 (2)\\")
+    script_path = os.path.dirname("data dir")
     # 清屏
     clear()
     # 寻找dbf文件
