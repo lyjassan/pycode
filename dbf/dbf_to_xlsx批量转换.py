@@ -1,4 +1,4 @@
-# 标题:     dbf转xlsx
+# 标题:      dbf转xlsx
 # 描述:      dbf文件批量转xlsx
 # 作者:      Jas
 # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -16,7 +16,7 @@ def main():
     # 声明
     cnt_errors = 0
     # 获取需转换的dbf路径
-    script_path = os.path.dirname("data dir")
+    script_path = os.path.dirname(r"C:\Users\JAS\Desktop\新建文件夹 (2)\新建文件夹 (2)\\")
     # 清屏
     clear()
     # 寻找dbf文件
